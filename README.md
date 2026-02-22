@@ -93,10 +93,5 @@ Here’s a short demonstration of the Brain Tumor Detection web app in action:
 
 * Extend model to classify multiple tumor types.
 
-## **Author**
-
-Kiruthika M.
-
-Computer Science Engineer
 
 
