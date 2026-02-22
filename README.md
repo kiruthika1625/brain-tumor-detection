@@ -95,8 +95,8 @@ Here’s a short demonstration of the Brain Tumor Detection web app in action:
 
 ## **Author**
 
-Sharathraj B.
+Kiruthika M.
 
-Machine Learning & AI Enthusiast | Computer Science Engineer
+Computer Science Engineer
 
-GitHub: [Sharathraj7](https://github.com/Sharathraj7)
+
